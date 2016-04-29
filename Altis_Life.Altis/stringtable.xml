@@ -4,7 +4,7 @@
 		<Key ID="STR_Shops_C_Bruce">
 			<Original>Bruce's Outback Outfits</Original>
 			<Czech>Bruceovy Outback Oblečení</Czech>
-			<French>Outback Tenues de Bruce</French>
+			<French>Marchand de vetemente</French>
 			<Spanish>Tienda de Ropa</Spanish>
 			<Russian></Russian>
 			<Portuguese>Loja de Roupas</Portuguese>
@@ -14,7 +14,7 @@
 		<Key ID="STR_Shops_C_Police">
 			<Original>Altis Police Department Shop</Original>
 			<Czech>Altis policejní oddělení Shop</Czech>
-			<French>Altis Police Department Boutique</French>
+			<French>Boutique Police</French>
 			<Spanish>Tienda del Departamento de Policía</Spanish>
 			<Russian></Russian>
 			<Portuguese>Loja de Roupas Policiais</Portuguese>
@@ -24,7 +24,7 @@
 		<Key ID="STR_Shops_C_Rebel">
 			<Original>Mohammed's Jihadi Shop</Original>
 			<Czech>Mohamedův džihád Shop</Czech>
-			<French>Jihad Shop Muhammad</French>
+			<French>Magasin Jihadi Mohamed</French>
 			<Spanish>Tienda Jihadi de Mohamed</Spanish>
 			<Russian></Russian>
 			<Portuguese>Loja de Roupas Rebeldes</Portuguese>
@@ -33,7 +33,7 @@
 		<Key ID="STR_Shops_C_Diving">
 			<Original>Steve's Diving Shop</Original>
 			<Czech>Steve je potápění obchod</Czech>
-			<French>Plongée Shop Steve</French>
+			<French>Boutique de plongée</French>
 			<Spanish>Tienda de Buceo</Spanish>
 			<Russian></Russian>
 			<German>Steve's Taucherequipment</German>
@@ -47,7 +47,7 @@
 			<Russian></Russian>
 			<German>Billy Joe Bekleidung</German>
 			<Italian>Abbigliamento di Billy Joe</Italian>
-			<French>Vêtements pour Billy Joe</French>
+			<French>Magasin de Vêtements Billy Joe</French>
 			<Portuguese>Roupa Billy Joe</Portuguese>
 			<Polish>Billy Joe Odzież</Polish>
 		</Key>
@@ -65,7 +65,7 @@
 		<Key ID="STR_Shops_C_Kart">
 			<Original>Bobby's Kart-Racing Outfits</Original>
 			<Czech>Billy Joe Střelné zbraně</Czech>
-			<French>Kart-Racing Tenues de Bobby</French>
+			<French>Magasin Tenues Kart-Racing </French>
 			<Spanish>Tienda de Trajes de Carreras</Spanish>
 			<Russian></Russian>
 			<German>Bobby's Go-Kart Rennklamotten</German>
@@ -90,7 +90,7 @@
 			<Russian></Russian>
 			<German>Rebellen Markt</German>
 			<Italian>Mercato Ribelle</Italian>
-			<French>Marché Rebel</French>
+			<French>Marché rebelle</French>
 			<Portuguese>Mercado Rebelde</Portuguese>
 			<Polish>Market Rebeliantów</Polish>
 		</Key>
@@ -101,7 +101,7 @@
 			<Russian></Russian>
 			<German>Gang Markt</German>
 			<Italian>Mercato Gang</Italian>
-			<French>Marché de Gang</French>
+			<French>Marché Gang</French>
 			<Portuguese>Mercado da Gangue</Portuguese>
 			<Polish>Market Gangu</Polish>
 		</Key>
@@ -112,7 +112,7 @@
 			<Russian></Russian>
 			<German>Gang Kleidung</German>
 			<Italian>Gang Abbigliamento</Italian>
-			<French>Gang Vêtements</French>
+			<French>Vêtements Gang </French>
 			<Portuguese>Roupa Gang</Portuguese>
 			<Polish>Gang Odzież</Polish>
 		</Key>
@@ -123,7 +123,7 @@
 			<Russian></Russian>
 			<German>Wong's Spezialitäten</German>
 			<Italian>Alimentari</Italian>
-			<French>Wong Alimentation</French>
+			<French>Chez Momo</French>
 			<Portuguese>Praça de Alimentação</Portuguese>
 			<Polish>Przysmaki Wonga</Polish>
 		</Key>
@@ -134,7 +134,7 @@
 			<Russian></Russian>
 			<German>Gyro's Café</German>
 			<Italian>Caffè</Italian>
-			<French>Café de Gyro</French>
+			<French>Café</French>
 			<Portuguese>Café do Gyro</Portuguese>
 			<Polish>Kawiarnia</Polish>
 		</Key>
@@ -211,7 +211,7 @@
 			<Russian></Russian>
 			<German>Juan's Zementleger</German>
 			<Italian>Vendita Cemento</Italian>
-			<French>Poseur de Ciment</French>
+			<French>Acheteur de Ciment</French>
 			<Portuguese>Comprador de Cimento</Portuguese>
 			<Polish>Wytwórnia cementu</Polish>
 		</Key>
@@ -251,7 +251,7 @@
 		<Key ID="STR_Shop_Station_Coffee">
 			<Original>Fuel Station Coffee</Original>
 			<Czech>Palivo Coffee Station</Czech>
-			<French>Fuel Station Coffee</French>
+			<French>Cafeteria Fuel Station</French>
 			<Spanish>Cafeteria de Gasolinera</Spanish>
 			<Russian></Russian>
 			<German>Tankstellen Café</German>
@@ -296,7 +296,7 @@
 		<Key ID="STR_Global_Mags">
 			<Original>Magazines</Original>
 			<Czech>časopisy</Czech>
-			<French>Les magazines</French>
+			<French>Chargeurs</French>
 			<Spanish>Cargadores</Spanish>
 			<Russian></Russian>
 			<Portuguese>Munições</Portuguese>
@@ -411,7 +411,7 @@
 			<Spanish>No</Spanish>
 			<Russian></Russian>
 			<German>Nein</German>
-			<French>Aucun</French>
+			<French>Non</French>
 			<Italian>No</Italian>
 			<Portuguese>Não</Portuguese>
 			<Polish>Nie</Polish>
@@ -517,7 +517,7 @@
 			<Spanish>Modo Dios</Spanish>
 			<Russian></Russian>
 			<German>Gott</German>
-			<French>Dieu</French>
+			<French>Invincible</French>
 			<Portuguese>Modo Deus</Portuguese>
 			<Polish>GodMode</Polish>
 		</Key>
@@ -593,7 +593,7 @@
 			<Spanish>Estas a punto de darte $%1 para compensar a otro jugador&lt;br/&gt;&lt;br/&gt; Debes darle el dinero a la persona manualmente.</Spanish>
 			<Russian></Russian>
 			<German>Du bist dabei dir selbst $%1 zu geben um einen anderen Spieler zu entschädigen.&lt;br/&gt;&lt;br/&gt;Gib das Geld dann an den Spieler weiter.</German>
-			<French>Vous êtes sur le point de vous donner $%1 pour compenser à un autre joueur &lt;br/&gt;&lt;br/&gt; S'il vous plaît donner à cette à la personne vous compensez manuellement</French>
+			<French>Vous êtes sur le point de vous donner $%1 pour rembourser un autre joueur &lt;br/&gt;&lt;br/&gt; S'il vous plaît donner à cette personne l'argent.</French>
 			<Portuguese>Você está prestes a dar para você mesmo R$%1 para compensar outro jogador &lt;br/&gt;&lt;br/&gt;Você deve dar este dinheiro para a pessoa que você está compensando manualmente.</Portuguese>
 			<Polish>Właśnie przydzieliłeś sobie $%1 w celu rekompensaty graczowi &lt;br/&gt;&lt;br/&gt;Musisz przekazać te środki osobiście osobie poszkodowanej.</Polish>
 		</Key>
@@ -633,7 +633,7 @@
 			<Spanish>Has desabilitado los controles de %1</Spanish>
 			<Russian></Russian>
 			<German>Du hast %1 Schock-Gefrostet. Er kann sich nichtmehr bewegen.</German>
-			<French>Vous avez désactivé %1's contrôles</French>
+			<French>Vous avez désactivé %1</French>
 			<Portuguese>Você desabilitou as entradas de %1.</Portuguese>
 			<Polish>Zablokowałeś grę gracza $%1 </Polish>
 		</Key>
@@ -643,7 +643,7 @@
 			<Spanish>Has abilitado los controles de %1</Spanish>
 			<Russian></Russian>
 			<German>du hast %1 wieder aufgetaut.</German>
-			<French>Vous avez permis %1's contrôles</French>
+			<French>Vous avez activé %1</French>
 			<Portuguese>Você habilitou as entradas de %1.</Portuguese>
 			<Polish>Odblokowałeś grę gracza $%1 </Polish>
 		</Key>
@@ -753,7 +753,7 @@
 			<Spanish>Estas retenido</Spanish>
 			<Russian></Russian>
 			<German>Wie willst du mit gefesselten Händen sammeln?</German>
-			<French>Vous sont retenus</French>
+			<French>Vous ête mennoté</French>
 			<Italian>Sei incapacitato</Italian>
 			<Portuguese>Você está contido</Portuguese>
 			<Polish>Ty skrępowaniem</Polish>
@@ -764,7 +764,7 @@
 			<Spanish>No puedes hacer esto mientras te estas rindiendo</Spanish>
 			<Russian></Russian>
 			<German>Mit gehobenen Händen kannst du nichts sammeln!.</German>
-			<French>Vous ne pouvez pas faire cela pendant que vous abandonnez</French>
+			<French>Vous ne pouvez pas faire cela pendant que vous avez les mains en l'air</French>
 			<Italian>Non si può fare questo mentre hai le mani in alto</Italian>
 			<Portuguese>Você não pode fazer isso enquanto você se entrega</Portuguese>
 			<Polish>Nie można tego zrobić, gdy się poddasz</Polish>
@@ -775,7 +775,7 @@
 			<Spanish>No puedes recolectar este recurso con este vehiculo!</Spanish>
 			<Russian></Russian>
 			<German>Du kannst diese Ressource nicht mit diesem Fahrzeug abbauen!</German>
-			<French>You can't gather this resource with this vehicle!</French>
+			<French>Vous ne pouvez pas collecter cette ressource avec ce véhicule!</French>
 			<Italian>Non puoi raccogliere questa risorsa con questo veicolo!</Italian>
 			<Portuguese>You can't gather this resource with this vehicle!</Portuguese>
 			<Polish>You can't gather this resource with this vehicle!</Polish>
@@ -902,7 +902,7 @@
 		<Key ID="STR_ATM_DoesntExist">
 			<Original>The player selected doesn't seem to exist?</Original>
 			<Czech>Hráč vybraný Nezdá se, že neexistuje?</Czech>
-			<French>Le joueur sélectionné ne semble pas exister?</French>
+			<French>Le joueur sélectionné ne semble pas exister</French>
 			<Spanish>El jugador que seleccionastes no existe?</Spanish>
 			<Russian></Russian>
 			<German>Der Spieler scheint nicht zu existieren?</German>
@@ -1374,7 +1374,7 @@
 			<Spanish>Solo una persona puede capturar a la vez!</Spanish>
 			<Russian></Russian>
 			<German>Nur eine Person kann das Versteck einnehmen!</German>
-			<French>Une seule personne doit capturer à la fois!</French>
+			<French>Une seule une personne doit capturer à la fois!</French>
 			<Italian>Può conquistare solo una persona alla volta!</Italian>
 			<Portuguese>Somente uma pessoa pode capturar!</Portuguese>
 			<Polish>Przejmowanie powinna przeprowadzić na raz tylko jedna osoba</Polish>
@@ -1426,7 +1426,7 @@
 		<Key ID="STR_GNOTF_Captured">
 			<Original>Hideout has been captured.</Original>
 			<Czech>Úkryt byl zajat.</Czech>
-			<French>Hideout a été capturé.</French>
+			<French>La cachette a été capturé.</French>
 			<Spanish>Escondite ha sido capturado.</Spanish>
 			<Italian>Hideout è stato catturato.</Italian>
 			<Polish>Hideout został schwytany.</Polish>
@@ -1627,7 +1627,7 @@
 			<Spanish>No puedes salir de la Pandilla sin apuntar a un nuevo líder!</Spanish>
 			<Russian></Russian>
 			<German>Du kannst die Gang nicht verlassen, ohne einen neuen Anführer zu ernennen!</German>
-			<French>Vous ne pouvez pas quitter le gang sans la nomination d'un nouveau chef d'abord!</French>
+			<French>Vous ne pouvez pas quitter le gang sans la nomination d'un nouveau chef !</French>
 			<Italian>Non puoi abbandonare la Gang prima di aver selezionato un nuovo Capo!</Italian>
 			<Portuguese>Você não pode sair da gangue sem transferir a liderança antes!</Portuguese>
 			<Polish>Nie możesz opuścić gangu bez przekazania komuś szefostwa nad gangiem</Polish>
